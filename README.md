@@ -1,4 +1,4 @@
-#MESS - Social Media 
+###MESS - Social Media 
 
 Why I made this?
 - I quite want to know more about APIs technologies and I found GraphQL so I think it is an opportunity to learn GraphQL by making some SNS.
