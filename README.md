@@ -34,3 +34,5 @@ How it works?
 - Instead of using REST, I use GraphQL to combine the endpoint and use the GraphQL query to ask for APIs.
 - Validation part for create USER, I use @hapi/joi to make validation more easier
 - You can use this as a server then if you want to make it more usable, you need to make a frontend by using the tech you like such as React, Angular or whatever.
+
+* note that for @hapi/joi if you want to use latest version, you need to change a code for @hapi/joi
